@@ -1,0 +1,5 @@
+Artificial Intelligence
+Big data and Hadoop
+Hive 
+Kafka
+[1]+ Stopped                  cat >today1.txt
